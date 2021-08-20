@@ -19,7 +19,7 @@
         "no_of_posts": 2,
         "login_image": "login.png",
         "admin_user" : "username",
-        "admin_password" : "password",
+        "admin_password" : "Your_password",
         "upload_location":  "D:\\flask concept\\blog using flask\\static\\assets\\img2 from app"
     }
 }
